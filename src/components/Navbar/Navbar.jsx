@@ -68,7 +68,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
               height="25px"
               className={classes.image}
             />{" "}
-            LaptopBecho.COM
+            LaptopNation
           </Typography>
           <div className={classes.grow} />
           {location.pathname === "/" && (
